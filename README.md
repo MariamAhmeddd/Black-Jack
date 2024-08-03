@@ -1,2 +1,2 @@
 # Black-Jack
-Java-based card game using oop
+Java-based card game
